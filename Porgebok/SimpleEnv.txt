@@ -1,0 +1,5 @@
+DB_USER=gashmar 
+DB_NAME=gashmar_db
+DB_PASS=123
+PORT = 3000
+SESSION_SECRET=Freedom
